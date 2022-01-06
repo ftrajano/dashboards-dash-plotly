@@ -1,5 +1,5 @@
 # dashboards-dash-plotly
-Learning to create dashboards with dash and plotly (Udemy Course)
+Learning to create dashboards with dash and plotly (From this Udemy course https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/)
 
 
 # Section 1 - Simple Graphs

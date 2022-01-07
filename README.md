@@ -15,6 +15,6 @@ In this chart we're gonna plot the number of medals that each country won in the
 
 <img src="https://github.com/ftrajano/dashboards-dash-plotly/blob/main/images/s1_medals_table.JPG">
 
-And we plot the quantity of medals separated by golden/siver/bronze.
+And we plot the quantity of medals separated by golden/siver/bronze by country.
 
 <img src="https://github.com/ftrajano/dashboards-dash-plotly/blob/main/images/s1_medals.png">
